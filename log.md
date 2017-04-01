@@ -4,7 +4,6 @@
 ##### (delete me or comment me out)
 
 **Today's Progress**: 1) Free Code Camp, Intermediate Algorithm Scripting -- Algorithm 20(Everything Be True)
-
                       2) Free Code Camp, Intermediate Algorithm Scripting -- Algorithm 21(Arguments Optional)
 
 **Thoughts:** Learned the js function every() for an Array. It checks if all elements of the Array pass a test.       https://www.w3schools.com/jsref/jsref_every.asp
