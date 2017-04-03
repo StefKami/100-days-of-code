@@ -11,3 +11,16 @@
 
 **Link to work:** [Everything Be True] - https://www.freecodecamp.com/challenges/everything-be-true
                   [Arguments Optional] - https://www.freecodecamp.com/challenges/arguments-optional
+                  
+                  
+                  
+
+### Day 1: April 3, 2017
+##### (delete me or comment me out)
+
+**Today's Progress**: 1) Free Code Camp, Intermediate Algorithm Scripting -- Algorithm 17(Drop It)
+
+**Thoughts:** slice() function, that extracts and returns a part of a string. https://www.w3schools.com/jsref/jsref_slice_string.asp
+
+**Link to work:** [Drop It] - https://www.freecodecamp.com/challenges/drop-it
+                  
